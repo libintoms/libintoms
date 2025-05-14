@@ -6,7 +6,7 @@
 
 ---
 
-Welcome to my GitHub corner! I'm a passionate QA engineer with 8+ years of experience spanning product testing, Agile workflows, end-to-end automation, API & mobile testing, and ensuring things don’t break—at least not on my watch. 🕵️‍♂️
+Welcome to my GitHub corner! I'm a passionate QA engineer with 9+ years of experience spanning product testing, Agile workflows, end-to-end automation, API & mobile testing, and ensuring things don’t break—at least not on my watch. 🕵️‍♂️
 
 I'm known for my obsession with quality (both code and coffee ☕️), my knack for quickly adopting new tools and tech, and my uncanny ability to survive project deadlines and office parties alike.
 
